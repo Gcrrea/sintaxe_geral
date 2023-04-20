@@ -1,0 +1,5 @@
+greenlet==2.0.2
+pyodbc==4.0.39
+python-dotenv==1.0.0
+SQLAlchemy==2.0.9
+typing-extensions==4.5.0
