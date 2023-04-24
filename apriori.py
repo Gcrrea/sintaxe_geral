@@ -62,14 +62,3 @@ def calculate_apriori() -> None:
         i +=1
     print(lista_apriori)
 calculate_apriori()
-
-
-
-
-from sqlalchemy import create_engine
-from sqlalchemy.orm import sessionmaker
-from sqlalchemy.engine import URL
-import os
-from pathlib import Path
-from dotenv import load_dotenv
-from urllib import parse
